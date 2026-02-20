@@ -11,18 +11,16 @@ intro.py – EconLab PPE
 
 def main():
     # ===== ערוך כאן =====
-    name = "Your Name"                   # שמך באנגלית
+    name = "Nitay Pozner"                   # שמך באנגלית
     degree = "B.A. Economics"            # התואר שלך
-    university = "Your University"       # שם האוניברסיטה
+    university = "The open univercity"       # שם האוניברסיטה
     year_of_study = "2nd year"           # שנת לימודים
     economic_interests = [
-        "כתוב כאן תחום כלכלי שמעניין אותך",
-        "תחום נוסף",
+ניתוח נתונים והסקת מסקנות מתוך נתונים        "תחום נוסף",
         "תחום שלישי",
     ]
     why_econlab = (
-        "כתוב כאן במשפט אחד למה הצטרפת ל-EconLab PPE "
-        "ומה אתה מקווה ללמוד."
+בדיוק תכננתי להתחיל אחרי תקופת מבחנים להתנסות בSQL וכלים נוספים        "ומה אתה מקווה ללמוד."
     )
     # ====================
 
